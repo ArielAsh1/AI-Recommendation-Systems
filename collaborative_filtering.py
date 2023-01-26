@@ -1,4 +1,3 @@
-# Ariel Ashkenazy 208465096
 
 import time
 import pandas as pd

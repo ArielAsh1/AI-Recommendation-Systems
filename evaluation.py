@@ -1,4 +1,3 @@
-# Ariel Ashkenazy 208465096
 
 import pandas as pd
 import numpy as np
