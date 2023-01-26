@@ -1,8 +1,8 @@
-# Recommendation Systems - Collaborative Filtering
+# Recommendation Systems - Collaborative Filtering (CF) Model
 
 User based Collaborative Filtering.  
 Item based Collaborative Filtering.  
-Evaluation using RMSE.  
+Evaluation calculates the Root Mean Squared Error (RMSE) between the actual ratings and the predictions.   
 
 <p float="left">
 <img width="435" alt="image" src="https://user-images.githubusercontent.com/112930532/214788057-82af0da3-bd47-4f01-9c4e-4dbabb96d581.png">
