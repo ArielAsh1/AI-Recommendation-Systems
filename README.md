@@ -1,4 +1,4 @@
-# Recommendation Systems - Collaborative Filtering (CF) Model
+# Recommendation System - Collaborative Filtering (CF) Model
 
 User based Collaborative Filtering.  
 Item based Collaborative Filtering.  
