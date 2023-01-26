@@ -1,4 +1,3 @@
-# Ariel Ashkenazy 208465096
 
 import matplotlib.pyplot as plt
 import seaborn as sns
